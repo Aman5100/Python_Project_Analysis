@@ -13,10 +13,14 @@ The analysis aims to:
 Libraries Used:
 
 Pandas – Data loading,cleaning
-NumPy – Numerical computations 
+NumPy – Numerical computations
+
 Matplotlib –static data visualizations
+
 Seaborn – High-level statistical visualizations with enhanced aesthetics
+
 Datetime – Date parsing and recency calculations for RFM analysis.
+
 
 Visualizations Used:
 
