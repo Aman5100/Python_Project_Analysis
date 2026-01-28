@@ -5,14 +5,20 @@ The primary objective of this project is to analyze customer and transaction dat
 The analysis aims to:
 
 1)Understand customer purchasing behavior using historical transaction data
+
 2)Segment customers based on Recency, Frequency, and Monetary (RFM) metrics
-3)Identify high-value customers and revenue drivers
-4)Detect at-risk and low-engagement customers for retention strategies
+
+3)Identify high-value customers and revenue drivers.
+
+4)Detect at-risk and low-engagement customers for retention strategies.
+
 5)Provide clear visual insights that can be easily interpreted by business stakeholders.
+
 
 Libraries Used:
 
 Pandas – Data loading,cleaning
+
 NumPy – Numerical computations
 
 Matplotlib –static data visualizations
